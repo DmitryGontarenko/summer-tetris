@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecc3f595-8f4b-4676-81f3-43d5785acb1d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tetris2007$GameTetris.ic" NAME="GameTetris Coverage Results" MODIFIED="1534794983798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameTetris.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="95" column="26" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+                <element signature="method#paintComponent#0;class#Model#0" />
+                <element signature="method#newPiecePrewiev#0;class#Model#0" />
+                <element signature="method#newPiece#0;class#Model#0" />
+                <element signature="method#drawPiece#0;class#Model#0" />
+                <element signature="method#collision#0;class#Model#0" />
+                <element signature="method#dropDown#0;class#Model#0" />
+                <element signature="method#gameOver#0;class#Model#0" />
+                <element signature="method#fixToWell#0;class#Model#0" />
+                <element signature="method#move#0;class#Model#0" />
+                <element signature="method#rotate#0;class#Model#0" />
+                <element signature="method#flash#0;class#Model#0" />
+                <element signature="method#deleteRow#0;class#Model#0" />
+                <element signature="method#clearRows#0;class#Model#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Initial.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Initial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paintCom</find>
+      <find>cyan</find>
+      <find>Color</find>
+      <find>JPanel</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Admin\IdeaProjects\tetris2007</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MainTetris.java" />
+        <option value="$PROJECT_DIR$/src/Figure.java" />
+        <option value="$PROJECT_DIR$/src/Init.java" />
+        <option value="$PROJECT_DIR$/src/GameTetris.java" />
+        <option value="$PROJECT_DIR$/src/Model.java" />
+        <option value="$PROJECT_DIR$/src/Initial.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="summer-tetris1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="summer-tetris1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="summer-tetris1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="summer-tetris1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameTetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameTetris" />
+      <module name="summer-tetris" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameTetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecc3f595-8f4b-4676-81f3-43d5785acb1d" name="Default" comment="" />
+      <created>1532113011521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532113011521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.14012739" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19586506" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10294118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21443737" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.10898437" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.15286624" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="41" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Runnable.java" />
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5032">
+          <caret line="296" column="5" lean-forward="true" selection-start-line="296" selection-start-column="5" selection-end-line="296" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="93" selection-start-line="68" selection-start-column="93" selection-end-line="68" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5831">
+          <caret line="343" column="18" selection-start-line="343" selection-start-column="18" selection-end-line="343" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="50" lean-forward="true" selection-start-line="94" selection-start-column="50" selection-end-line="94" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="17" lean-forward="true" selection-start-line="274" selection-start-column="17" selection-end-line="274" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="320" column="19" selection-start-line="320" selection-start-column="19" selection-end-line="320" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="264" lean-forward="true" selection-start-line="264" selection-end-line="264" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="267" column="39" selection-start-line="267" selection-start-column="39" selection-end-line="267" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="267" column="39" lean-forward="true" selection-start-line="267" selection-start-column="39" selection-end-line="267" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4386">
+          <caret line="258" column="44" lean-forward="true" selection-start-line="258" selection-start-column="44" selection-end-line="258" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4981">
+          <caret line="293" column="26" lean-forward="true" selection-start-line="293" selection-start-column="26" selection-end-line="293" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="48" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="324" column="47" selection-start-line="324" selection-start-column="47" selection-end-line="324" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="48" lean-forward="true" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="264" column="48" lean-forward="true" selection-start-line="264" selection-start-column="48" selection-end-line="264" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4913">
+          <caret line="289" column="63" lean-forward="true" selection-start-line="289" selection-start-column="63" selection-end-line="289" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="45" lean-forward="true" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="9" lean-forward="true" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Runnable.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/image/ImageObserver.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Color.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JPanel.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JComponent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Graphics.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Container.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Component.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Point.java" />
+    <entry file="file://$PROJECT_DIR$/src/Initial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="95" column="26" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#FIGURE#0;n#Model#0" />
+            <element signature="method#paintComponent#0;class#Model#0" />
+            <element signature="method#newPiecePrewiev#0;class#Model#0" />
+            <element signature="method#newPiece#0;class#Model#0" />
+            <element signature="method#drawPiece#0;class#Model#0" />
+            <element signature="method#collision#0;class#Model#0" />
+            <element signature="method#dropDown#0;class#Model#0" />
+            <element signature="method#gameOver#0;class#Model#0" />
+            <element signature="method#fixToWell#0;class#Model#0" />
+            <element signature="method#move#0;class#Model#0" />
+            <element signature="method#rotate#0;class#Model#0" />
+            <element signature="method#flash#0;class#Model#0" />
+            <element signature="method#deleteRow#0;class#Model#0" />
+            <element signature="method#clearRows#0;class#Model#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameTetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
