@@ -1,4 +1,5 @@
-import javax.swing.*;
+package com.home.games.tetris;
+
 import java.awt.*;
 
 public class Initial {
